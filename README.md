@@ -178,9 +178,9 @@ const samuel = {
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/Samuel-Muli/Samuel-Muli/blob/output/github-contribution-grid-snake.svg" />
   <img alt="github contribution grid snake animation" src="https://github.com/Samuel-Muli/Samuel-Muli/blob/output/github-contribution-grid-snake-dark.svg" />
 </picture>
-
+<!--
 > 💡 *Activate the snake: add the workflow file (at the bottom of this file) to `.github/workflows/snake.yml`, then go to **Actions → Generate Snake → Run workflow**. It auto-runs daily after that.*
-
+-->
 </div>
 
 ---
