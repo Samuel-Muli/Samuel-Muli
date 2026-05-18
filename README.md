@@ -11,7 +11,7 @@
 <br/>
 
 <!-- Live counters row -->
-![Profile views](https://komarev.com/ghpvc/?username=Samuel-Muli&color=0ef&style=flat-square&label=Profile+Views)
+![Profile views](https://komarev.com/ghpvc/?username=Samuel-Muli&color=00EF00&style=flat-square&label=Profile+Views)
 &nbsp;
 ![GitHub followers](https://img.shields.io/github/followers/Samuel-Muli?style=flat-square&color=0ef&labelColor=1a1a2e&label=Followers)
 &nbsp;
